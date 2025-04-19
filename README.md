@@ -53,13 +53,13 @@ A modern web application that processes CSV files and sends each row as a JSON o
 ### 2. Configure Settings
 
 - Enter your webhook URL (required)
-- Add a source label to identify where these leads came from (required)
-- Optionally add notes that will be sent with each lead
-- Toggle test mode if you want to test with just the first lead
+- Add a source label to identify where these record came from (required)
+- Optionally add notes that will be sent with each records
+- Toggle test mode if you want to test with just the first records
 
-### 3. Process Leads
+### 3. Process rows
 
-- Click "Test" to send just the first lead as a test
+- Click "Test" to send just the first row as a test
 - Click "Start" to process the entire file
 - Monitor progress in real-time
 - View successes and failures
